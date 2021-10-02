@@ -19,7 +19,6 @@
         "forceConsistentCasingInFileNames": false,
         "resolveJsonModule": true,
         "noEmit": true /* Do not emit outputs. */,
-        "isolatedModules": true /* Transpile each file as a separate module (similar to 'ts.transpileModule'). */,
     }, 
     "include": [
         "src"
